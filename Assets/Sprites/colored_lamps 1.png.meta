@@ -1,0 +1,749 @@
+fileFormatVersion: 2
+guid: afcdc98e3bb4bfb47b303af1d2eaddda
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7912956390247545568
+    second: colored_lamps 1_0
+  - first:
+      213: 7428254447863412407
+    second: colored_lamps 1_1
+  - first:
+      213: -94473102543371864
+    second: colored_lamps 1_2
+  - first:
+      213: 6493270699642980891
+    second: colored_lamps 1_3
+  - first:
+      213: 2542471637928057518
+    second: colored_lamps 1_4
+  - first:
+      213: 4137829148912377921
+    second: colored_lamps 1_5
+  - first:
+      213: -5770489610061363133
+    second: colored_lamps 1_6
+  - first:
+      213: -5854830481870898564
+    second: colored_lamps 1_7
+  - first:
+      213: 7842137066928704649
+    second: colored_lamps 1_8
+  - first:
+      213: 7048359039995220372
+    second: colored_lamps 1_9
+  - first:
+      213: 2630755052758378909
+    second: colored_lamps 1_10
+  - first:
+      213: 8202829716261836159
+    second: colored_lamps 1_11
+  - first:
+      213: 3792351446132962911
+    second: colored_lamps 1_12
+  - first:
+      213: -6628579536560847103
+    second: colored_lamps 1_13
+  - first:
+      213: -5747750611317090498
+    second: colored_lamps 1_14
+  - first:
+      213: 8990836919802354150
+    second: colored_lamps 1_15
+  - first:
+      213: 9180303437584934795
+    second: colored_lamps 1_16
+  - first:
+      213: 8867843527416308644
+    second: colored_lamps 1_17
+  - first:
+      213: 6568059114395647608
+    second: colored_lamps 1_18
+  - first:
+      213: -3185249961165525416
+    second: colored_lamps 1_19
+  - first:
+      213: -5935879790388584932
+    second: colored_lamps 1_20
+  - first:
+      213: 5788012502868398669
+    second: colored_lamps 1_21
+  - first:
+      213: -1470343375747113529
+    second: colored_lamps 1_22
+  - first:
+      213: 3242800429186899217
+    second: colored_lamps 1_23
+  - first:
+      213: 2869088539125358143
+    second: colored_lamps 1_24
+  - first:
+      213: 1839157743800462306
+    second: colored_lamps 1_25
+  - first:
+      213: 6088891678417340615
+    second: colored_lamps 1_26
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: colored_lamps 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2148
+        width: 297
+        height: 1062
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1534a2714008580428096a11e124585e
+      internalID: -7912956390247545568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_lamps 1_1
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 2148
+        width: 297
+        height: 1062
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a42fd7b3c6f8a4bbbebce6ee8a5df1
+      internalID: 7428254447863412407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_lamps 1_2
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 2148
+        width: 297
+        height: 1062
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2929b76342ee91a4b85e69345c7e2866
+      internalID: -94473102543371864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_lamps 1_3
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 2148
+        width: 297
+        height: 1062
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e2c0aa39bc04d47aa89632821a910f
+      internalID: 6493270699642980891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_lamps 1_4
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 2148
+        width: 297
+        height: 1062
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb492f582a0576408ddde470f7e76a0
+      internalID: 2542471637928057518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_lamps 1_5
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 2148
+        width: 297
+        height: 1062
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410bb41ec939c3742938f9e648134f65
+      internalID: 4137829148912377921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_lamps 1_6
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 2148
+        width: 297
+        height: 1062
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce36bd2f0a2db254b80fa429af5515fe
+      internalID: -5770489610061363133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_lamps 1_7
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 2148
+        width: 297
+        height: 1062
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946833382c4436f42b208317ef1d9a3b
+      internalID: -5854830481870898564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_lamps 1_8
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 2148
+        width: 297
+        height: 1062
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce7c890efab3884694ab0b636116e6f
+      internalID: 7842137066928704649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_lamps 1_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1086
+        width: 297
+        height: 1062
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b3660ab2a5d784c8459127ae7d6039
+      internalID: 7048359039995220372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_lamps 1_10
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1086
+        width: 297
+        height: 1062
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665a8c1ae1f4e4f4b910391b334d62be
+      internalID: 2630755052758378909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_lamps 1_11
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1086
+        width: 297
+        height: 1062
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55785ab0b178cd644aaf20a48b365c56
+      internalID: 8202829716261836159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_lamps 1_12
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1086
+        width: 297
+        height: 1062
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e85a1e4171adfe44a2fd9ecaf916742
+      internalID: 3792351446132962911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_lamps 1_13
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 1086
+        width: 297
+        height: 1062
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160eca15fe461c240a358956fc152aa7
+      internalID: -6628579536560847103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_lamps 1_14
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 1086
+        width: 297
+        height: 1062
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25fb6e1cfd51ea9438f09ed18df0ed07
+      internalID: -5747750611317090498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_lamps 1_15
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 1086
+        width: 297
+        height: 1062
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc00818a128730b4ea1c09327b9068f8
+      internalID: 8990836919802354150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_lamps 1_16
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 1086
+        width: 297
+        height: 1062
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3211f3583eafa4f49a1675ddf7705f58
+      internalID: 9180303437584934795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_lamps 1_17
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 1086
+        width: 297
+        height: 1062
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0845d30537a32f54b9196de5b84884de
+      internalID: 8867843527416308644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_lamps 1_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 297
+        height: 1062
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583e05b3ade830d43a9da02efd35e70f
+      internalID: 6568059114395647608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_lamps 1_19
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 24
+        width: 297
+        height: 1062
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f24766a99cd314f85d596ff39e497c
+      internalID: -3185249961165525416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_lamps 1_20
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 24
+        width: 297
+        height: 1062
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec3412b9b08abe4b8e45b8fef930c42
+      internalID: -5935879790388584932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_lamps 1_21
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 24
+        width: 297
+        height: 1062
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28814d636710b2646b91a493a7a9f112
+      internalID: 5788012502868398669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_lamps 1_22
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 24
+        width: 297
+        height: 1062
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3ea9d1a46009242857ddf1c3eb071b
+      internalID: -1470343375747113529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_lamps 1_23
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 24
+        width: 297
+        height: 1062
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28cd7e818845f2741b00f8c7972e60a3
+      internalID: 3242800429186899217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_lamps 1_24
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 24
+        width: 297
+        height: 1062
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283afba9d0b50dd4c85431908cbfe07b
+      internalID: 2869088539125358143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_lamps 1_25
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 24
+        width: 297
+        height: 1062
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68dc8c1349091ad4f8a08da29c877e99
+      internalID: 1839157743800462306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colored_lamps 1_26
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 24
+        width: 297
+        height: 1062
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa586b390d0a524285b6903cd35aa98
+      internalID: 6088891678417340615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 11c8dad1fbdf87d418b6f59e3bfab176
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,797 @@
+fileFormatVersion: 2
+guid: 6115ae00834b959408c604512c28f070
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3596418368788998395
+    second: Noodle_Sign_Gif_0
+  - first:
+      213: -4656053306724445176
+    second: Noodle_Sign_Gif_1
+  - first:
+      213: 1868438351180529644
+    second: Noodle_Sign_Gif_2
+  - first:
+      213: -1996979280585555171
+    second: Noodle_Sign_Gif_3
+  - first:
+      213: -3978408102753211153
+    second: Noodle_Sign_Gif_4
+  - first:
+      213: -6595143796124954401
+    second: Noodle_Sign_Gif_5
+  - first:
+      213: -2685777653657417761
+    second: Noodle_Sign_Gif_6
+  - first:
+      213: -9085376862063155266
+    second: Noodle_Sign_Gif_7
+  - first:
+      213: 4432183192257722608
+    second: Noodle_Sign_Gif_8
+  - first:
+      213: 6599175779136816674
+    second: Noodle_Sign_Gif_9
+  - first:
+      213: 3217648172178290079
+    second: Noodle_Sign_Gif_10
+  - first:
+      213: 74692938751240604
+    second: Noodle_Sign_Gif_11
+  - first:
+      213: 3684733445420609286
+    second: Noodle_Sign_Gif_12
+  - first:
+      213: -2734243089663940606
+    second: Noodle_Sign_Gif_13
+  - first:
+      213: 4631318333974857388
+    second: Noodle_Sign_Gif_14
+  - first:
+      213: -3172351491003219085
+    second: Noodle_Sign_Gif_15
+  - first:
+      213: 2308213366731965332
+    second: Noodle_Sign_Gif_16
+  - first:
+      213: 3598642486245881769
+    second: Noodle_Sign_Gif_17
+  - first:
+      213: -5639889252105607541
+    second: Noodle_Sign_Gif_18
+  - first:
+      213: 7239549625765707611
+    second: Noodle_Sign_Gif_19
+  - first:
+      213: -7244372973067115620
+    second: Noodle_Sign_Gif_20
+  - first:
+      213: 5232786267471768080
+    second: Noodle_Sign_Gif_21
+  - first:
+      213: 6816668546847802997
+    second: Noodle_Sign_Gif_22
+  - first:
+      213: 893342300022884065
+    second: Noodle_Sign_Gif_23
+  - first:
+      213: -2554446347054277489
+    second: Noodle_Sign_Gif_24
+  - first:
+      213: 5145954697046409214
+    second: Noodle_Sign_Gif_25
+  - first:
+      213: -6835236487806086234
+    second: Noodle_Sign_Gif_26
+  - first:
+      213: -4186050224322595048
+    second: Noodle_Sign_Gif_27
+  - first:
+      213: -1548419894656350566
+    second: Noodle_Sign_Gif_28
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Noodle_Sign_Gif_0
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 0
+        width: 70
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd5e98462af9554eaf08337fbd2201b
+      internalID: -3596418368788998395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noodle_Sign_Gif_1
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 0
+        width: 70
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44202a4ce411d64185c063cb3735f28
+      internalID: -4656053306724445176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noodle_Sign_Gif_2
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 0
+        width: 68
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a7e5fbe3536f14dbb5686cc6c2533f
+      internalID: 1868438351180529644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noodle_Sign_Gif_3
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 0
+        width: 68
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b1f311a3a827748bd1c1d227725f17
+      internalID: -1996979280585555171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noodle_Sign_Gif_4
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 0
+        width: 70
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ceda4470cad7984586c4bb557a4e12f
+      internalID: -3978408102753211153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noodle_Sign_Gif_5
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 0
+        width: 70
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dda1679e02ad574db580bbab64c43ba
+      internalID: -6595143796124954401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noodle_Sign_Gif_6
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 0
+        width: 69
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64c34f5f9747994f8f51714d4c47885
+      internalID: -2685777653657417761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noodle_Sign_Gif_7
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 0
+        width: 68
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de7931b8e8c4c24b94877a56b45d173
+      internalID: -9085376862063155266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noodle_Sign_Gif_8
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 0
+        width: 69
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21061a06d4e190a42b14180dd53d5a00
+      internalID: 4432183192257722608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noodle_Sign_Gif_9
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 0
+        width: 70
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97f35e27a412ee458d160226c81e1f2
+      internalID: 6599175779136816674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noodle_Sign_Gif_10
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 0
+        width: 69
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68ce2e6e1698294f990ad8eb999c677
+      internalID: 3217648172178290079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noodle_Sign_Gif_11
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 0
+        width: 68
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa23a40b52cd21d4382d3ead33d7379f
+      internalID: 74692938751240604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noodle_Sign_Gif_12
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 0
+        width: 68
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7caf5cd02c60df449bbe23201a12bee
+      internalID: 3684733445420609286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noodle_Sign_Gif_13
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 0
+        width: 70
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c37da733b8ab5d4d88986a2d4f5453e
+      internalID: -2734243089663940606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noodle_Sign_Gif_14
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 0
+        width: 70
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72a7bef3ad5c6c47a5496841dbe6d2f
+      internalID: 4631318333974857388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noodle_Sign_Gif_15
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 0
+        width: 68
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a7dbd93b892f749ad3c52a05d61d17
+      internalID: -3172351491003219085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noodle_Sign_Gif_16
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 0
+        width: 68
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9bc8a778b01f1479057e0f3d045619
+      internalID: 2308213366731965332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noodle_Sign_Gif_17
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 0
+        width: 70
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39a6f1137de03e40bfbf85eefda4280
+      internalID: 3598642486245881769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noodle_Sign_Gif_18
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 0
+        width: 70
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b4c433946748e4990cf429e85447ef
+      internalID: -5639889252105607541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noodle_Sign_Gif_19
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 0
+        width: 69
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15aff93c43154b04aac280eb76a23aef
+      internalID: 7239549625765707611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noodle_Sign_Gif_20
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 0
+        width: 68
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0fe8f424c38864f92e779479b74aa5
+      internalID: -7244372973067115620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noodle_Sign_Gif_21
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 0
+        width: 69
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f270d5e7be44beb4c8f41ecc156aa7f6
+      internalID: 5232786267471768080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noodle_Sign_Gif_22
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 0
+        width: 70
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07116f476fbaad48867fc153a938ca3
+      internalID: 6816668546847802997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noodle_Sign_Gif_23
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 0
+        width: 69
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db217d5f789b62c4893c8a8f1ad50885
+      internalID: 893342300022884065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noodle_Sign_Gif_24
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 0
+        width: 68
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32f56b39e90c9049bae24b38e0336ac
+      internalID: -2554446347054277489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noodle_Sign_Gif_25
+      rect:
+        serializedVersion: 2
+        x: 2219
+        y: 0
+        width: 68
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1829075163661c418c0b662e1c697a6
+      internalID: 5145954697046409214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noodle_Sign_Gif_26
+      rect:
+        serializedVersion: 2
+        x: 2294
+        y: 0
+        width: 70
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d4da94f9ed47847888b6364f20c75b
+      internalID: -6835236487806086234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noodle_Sign_Gif_27
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 0
+        width: 70
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34136cc9bb9299848bff54ed7193ca2c
+      internalID: -4186050224322595048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noodle_Sign_Gif_28
+      rect:
+        serializedVersion: 2
+        x: 2447
+        y: 0
+        width: 68
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7dbb3ab1336984cb9a2d32abda8b74
+      internalID: -1548419894656350566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a6aa7ecb6981b3849b1d3735bc7b8553
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

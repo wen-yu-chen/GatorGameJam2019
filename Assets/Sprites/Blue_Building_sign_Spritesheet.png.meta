@@ -1,0 +1,1277 @@
+fileFormatVersion: 2
+guid: c4514b38ea974e742937b1bd62389ef4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2364533408840473248
+    second: Blue_Building_sign_Spritesheet_0
+  - first:
+      213: -3199576858930628057
+    second: Blue_Building_sign_Spritesheet_1
+  - first:
+      213: -1597652624277578629
+    second: Blue_Building_sign_Spritesheet_2
+  - first:
+      213: 1947422316478482717
+    second: Blue_Building_sign_Spritesheet_3
+  - first:
+      213: -5219774058047182350
+    second: Blue_Building_sign_Spritesheet_4
+  - first:
+      213: -4255814215001204424
+    second: Blue_Building_sign_Spritesheet_5
+  - first:
+      213: -8624786066616745354
+    second: Blue_Building_sign_Spritesheet_6
+  - first:
+      213: 5589822269825445173
+    second: Blue_Building_sign_Spritesheet_7
+  - first:
+      213: 9058776854087795225
+    second: Blue_Building_sign_Spritesheet_8
+  - first:
+      213: 3864251391941029372
+    second: Blue_Building_sign_Spritesheet_9
+  - first:
+      213: -5231445078328687376
+    second: Blue_Building_sign_Spritesheet_10
+  - first:
+      213: -5240253428699506512
+    second: Blue_Building_sign_Spritesheet_11
+  - first:
+      213: 7222188352912206746
+    second: Blue_Building_sign_Spritesheet_12
+  - first:
+      213: -7004632213646171662
+    second: Blue_Building_sign_Spritesheet_13
+  - first:
+      213: -3196497142693719422
+    second: Blue_Building_sign_Spritesheet_14
+  - first:
+      213: -9041840118651924520
+    second: Blue_Building_sign_Spritesheet_15
+  - first:
+      213: 1707529738604357187
+    second: Blue_Building_sign_Spritesheet_16
+  - first:
+      213: -990904370614289762
+    second: Blue_Building_sign_Spritesheet_17
+  - first:
+      213: -6201846031676911611
+    second: Blue_Building_sign_Spritesheet_18
+  - first:
+      213: -6311377958911692425
+    second: Blue_Building_sign_Spritesheet_19
+  - first:
+      213: -5526606309691265373
+    second: Blue_Building_sign_Spritesheet_20
+  - first:
+      213: -410483661484868350
+    second: Blue_Building_sign_Spritesheet_21
+  - first:
+      213: 3920603142568579030
+    second: Blue_Building_sign_Spritesheet_22
+  - first:
+      213: -6302694131921349240
+    second: Blue_Building_sign_Spritesheet_23
+  - first:
+      213: -5993803979458228946
+    second: Blue_Building_sign_Spritesheet_24
+  - first:
+      213: 4425517544844466870
+    second: Blue_Building_sign_Spritesheet_25
+  - first:
+      213: 4570845035049969808
+    second: Blue_Building_sign_Spritesheet_26
+  - first:
+      213: 6749940700137718185
+    second: Blue_Building_sign_Spritesheet_27
+  - first:
+      213: 3426228490772484379
+    second: Blue_Building_sign_Spritesheet_28
+  - first:
+      213: -8898581031065015627
+    second: Blue_Building_sign_Spritesheet_29
+  - first:
+      213: 6826474253696793803
+    second: Blue_Building_sign_Spritesheet_30
+  - first:
+      213: 3676626094148503788
+    second: Blue_Building_sign_Spritesheet_31
+  - first:
+      213: -2104126938100473714
+    second: Blue_Building_sign_Spritesheet_32
+  - first:
+      213: -1838971755547195899
+    second: Blue_Building_sign_Spritesheet_33
+  - first:
+      213: -5432072047842835004
+    second: Blue_Building_sign_Spritesheet_34
+  - first:
+      213: -2700998987043636414
+    second: Blue_Building_sign_Spritesheet_35
+  - first:
+      213: -4486449287265026329
+    second: Blue_Building_sign_Spritesheet_36
+  - first:
+      213: 9021866366961970793
+    second: Blue_Building_sign_Spritesheet_37
+  - first:
+      213: 1868372383730943833
+    second: Blue_Building_sign_Spritesheet_38
+  - first:
+      213: 8868563268224318352
+    second: Blue_Building_sign_Spritesheet_39
+  - first:
+      213: 2389043590491832561
+    second: Blue_Building_sign_Spritesheet_40
+  - first:
+      213: -9141638827199839205
+    second: Blue_Building_sign_Spritesheet_41
+  - first:
+      213: 7801306802949263230
+    second: Blue_Building_sign_Spritesheet_42
+  - first:
+      213: 6257240974216025194
+    second: Blue_Building_sign_Spritesheet_43
+  - first:
+      213: 4214001258424941585
+    second: Blue_Building_sign_Spritesheet_44
+  - first:
+      213: 2963502007903088624
+    second: Blue_Building_sign_Spritesheet_45
+  - first:
+      213: -4391514658728895112
+    second: Blue_Building_sign_Spritesheet_46
+  - first:
+      213: -6572147521494823386
+    second: Blue_Building_sign_Spritesheet_47
+  - first:
+      213: -2341364483636792806
+    second: Blue_Building_sign_Spritesheet_48
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Blue_Building_sign_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 651
+        width: 235
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b55e2416cf4d048938af34027fb384
+      internalID: -2364533408840473248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Building_sign_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 651
+        width: 235
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afeed428682aede4a9e758b07df61223
+      internalID: -3199576858930628057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Building_sign_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 651
+        width: 235
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09d9a14851be7f4fbc9188ec5278292
+      internalID: -1597652624277578629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Building_sign_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 651
+        width: 235
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b506a50d673b64c8f6ca88a365ff56
+      internalID: 1947422316478482717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Building_sign_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 651
+        width: 235
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12ad5d6fa8cd824b9022ff2ad6d45c0
+      internalID: -5219774058047182350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Building_sign_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 579
+        width: 235
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1895f6ce2c45148a4a2ae037dea54a
+      internalID: -4255814215001204424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Building_sign_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 579
+        width: 235
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04ec121c8c338141ad86ebac2fc32b3
+      internalID: -8624786066616745354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Building_sign_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 579
+        width: 235
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5303a4b22ebb84b49a9a0a529dccac2b
+      internalID: 5589822269825445173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Building_sign_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 579
+        width: 235
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee0911ca91b474419b716f5cf00efe2
+      internalID: 9058776854087795225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Building_sign_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 579
+        width: 235
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbebb10e268de2148a80d1c32972ddec
+      internalID: 3864251391941029372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Building_sign_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 507
+        width: 235
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f1ca8f754cdc840be5c1a3f9f9a38c
+      internalID: -5231445078328687376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Building_sign_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 507
+        width: 235
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b189b7a3daad34598150d24193951e
+      internalID: -5240253428699506512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Building_sign_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 507
+        width: 235
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dad0bb5654c6eb44970801e2abf41c8
+      internalID: 7222188352912206746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Building_sign_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 507
+        width: 235
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ca2f15c1b9ee14b81a7affb325d028
+      internalID: -7004632213646171662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Building_sign_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 507
+        width: 235
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b31116d9d7e1b44a1822b4bad5f3b5
+      internalID: -3196497142693719422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Building_sign_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 435
+        width: 235
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a802fd3b8f57b04c9be6f59368f2eb2
+      internalID: -9041840118651924520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Building_sign_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 435
+        width: 235
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3031fc6ade20dc44a9245924a5e7899f
+      internalID: 1707529738604357187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Building_sign_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 435
+        width: 235
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e818ecab25961c44b9fee8538f87866
+      internalID: -990904370614289762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Building_sign_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 435
+        width: 235
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919de9a7f12b08542b0f8811d0bf3329
+      internalID: -6201846031676911611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Building_sign_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 435
+        width: 235
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdaf7c6617a0c448a8ccaec4f41db88
+      internalID: -6311377958911692425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Building_sign_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 363
+        width: 235
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7853e87df46ff2459449fb679ef42b6
+      internalID: -5526606309691265373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Building_sign_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 363
+        width: 235
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3546e973d27b64192eec4cbd6f2b79
+      internalID: -410483661484868350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Building_sign_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 363
+        width: 235
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a00a4a47ded1e48aba5f2b835a9344
+      internalID: 3920603142568579030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Building_sign_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 363
+        width: 235
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3ad198fdabf454e822438a63003a2f
+      internalID: -6302694131921349240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Building_sign_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 363
+        width: 235
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91c6f8b1c8afa14081529be218aec21
+      internalID: -5993803979458228946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Building_sign_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 291
+        width: 235
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a099e202895221d47b28b3ce360c9d5e
+      internalID: 4425517544844466870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Building_sign_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 291
+        width: 235
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62b3978da4bb5a48a48b1dedec945b9
+      internalID: 4570845035049969808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Building_sign_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 291
+        width: 235
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0c522729fe4a24aaac4755cc47c93b
+      internalID: 6749940700137718185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Building_sign_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 291
+        width: 235
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e11d00d3349a3498c38777d8f25b9c
+      internalID: 3426228490772484379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Building_sign_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 291
+        width: 235
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c187cd2318149044bc427e9ac039083
+      internalID: -8898581031065015627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Building_sign_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 219
+        width: 235
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56b89023f7f8dc4eacd1c82a8b07611
+      internalID: 6826474253696793803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Building_sign_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 219
+        width: 235
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1c442b03a86c1489164a7e20a1234f
+      internalID: 3676626094148503788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Building_sign_Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 219
+        width: 235
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ce3378210915d4a8b9a89d868c199c
+      internalID: -2104126938100473714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Building_sign_Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 219
+        width: 235
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f196c7ad5c489479d91869a65eb058
+      internalID: -1838971755547195899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Building_sign_Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 219
+        width: 235
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787bfa2cf8e679448844fabd0030fa1e
+      internalID: -5432072047842835004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Building_sign_Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 147
+        width: 235
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297a849137cd288468d4d238380a1a65
+      internalID: -2700998987043636414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Building_sign_Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 147
+        width: 235
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655371631a72807498d9bf3a91d2622a
+      internalID: -4486449287265026329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Building_sign_Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 147
+        width: 235
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a906f7f47b49af40bf45ed83430d05e
+      internalID: 9021866366961970793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Building_sign_Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 147
+        width: 235
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5260020d6f712409c74f3e3289c188
+      internalID: 1868372383730943833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Building_sign_Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 147
+        width: 235
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c40886e1a1d4014aa9b9a2c0dc0e917
+      internalID: 8868563268224318352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Building_sign_Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 75
+        width: 235
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df7a15a307340449a5082038db65e87
+      internalID: 2389043590491832561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Building_sign_Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 75
+        width: 235
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c629e320925c304bb57854cfc6a4ff9
+      internalID: -9141638827199839205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Building_sign_Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 75
+        width: 235
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb5a8e8517cf3d448432fac8d4c5bac
+      internalID: 7801306802949263230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Building_sign_Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 75
+        width: 235
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f1b16745d0c6c43bfd73cb9a664c5a
+      internalID: 6257240974216025194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Building_sign_Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 75
+        width: 235
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bef77a6a86b9034dad33b5af4c75298
+      internalID: 4214001258424941585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Building_sign_Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 235
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5028fbe115e40f46b37e3daaa1f6c87
+      internalID: 2963502007903088624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Building_sign_Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 3
+        width: 235
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a1b05184acd7747bcce44410631ce6
+      internalID: -4391514658728895112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Building_sign_Spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 3
+        width: 235
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45921e3e01d85244db164a4cce3c1bbe
+      internalID: -6572147521494823386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Building_sign_Spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 3
+        width: 235
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8b4ef3075066a418a55e08a5ca950b
+      internalID: -2341364483636792806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8fe4c5db92ff22d48aae78375c3fc84c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

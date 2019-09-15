@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68372e9cd06d3a0428b88cbd8135a203, type: 3}
+  m_Name: PlayerSword
+  m_EditorClassIdentifier: 
+  playerPosition: {fileID: 0}
+  soundEffect: {fileID: 8300000, guid: 793df6857aab8004ba1ef9bbf6c9fced, type: 3}
+  equipName: KA BAM
+  equipDesc: oh no!
+  windupTime: 0.5
+  actionTime: 0.5
+  falloffTime: 0.01
+  sweetSpotStart: 0.05
+  sweetSpotDur: 0.45
+  spawnedEffect: {fileID: 6793549524022666930, guid: b2c5a1a3d9cfa2c49b81e04008cb52f0,
+    type: 3}
+  sweetSpotBehavior: 2
+  damageBehavior: 5
+  slashSound: {fileID: 8300000, guid: f7bfa387409bfc7479e2ec12760e89a2, type: 3}
+  damage: 5

@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Reflect
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Dissipate
+  - Reflect
+  - Projectile
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Parralax
+    uniqueID: 3995514277
+    locked: 0
+  - name: Background
+    uniqueID: 1435476495
+    locked: 0
+  - name: Midground
+    uniqueID: 1585421735
+    locked: 0
+  - name: Gameplay
+    uniqueID: 1612198787
+    locked: 0
+  - name: Foreground
+    uniqueID: 3771731069
+    locked: 0
